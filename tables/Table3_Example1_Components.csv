@@ -1,0 +1,11 @@
+Method,Value,Downstream_node1,Upstream_node2
+External creditors' loss,Both,8000,6000
+External assets,Shapley,6750,7250
+External assets,Aumann-Shapley,6916.66666666667,7083.33333333333
+Transmission,Shapley,7350,6650
+Leverage,Aumann-Shapley,7740,6260
+Intermediation,Shapley,6350,7650
+Intermediation,Aumann-Shapley,6300,7700
+Solvency,Aumann-Shapley,6600,7400
+Absorption,Aumann-Shapley,6000,8000
+Funding,Aumann-Shapley,6150,7850

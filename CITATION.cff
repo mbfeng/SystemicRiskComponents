@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below (preferred-citation)."
+title: "SystemicRiskComponents: code for Systemic Risk Components in a Network Model of Contagion"
+type: software
+authors:
+  - given-names: Jeremy
+    family-names: Staum
+  - given-names: Mingbin
+    family-names: Feng
+  - given-names: Ming
+    family-names: Liu
+version: 1.0.0
+date-released: "2026-11-21"
+license: MIT
+repository-code: "https://github.com/mbfeng/SystemicRiskComponents"
+preferred-citation:
+  type: article
+  title: "Systemic risk components in a network model of contagion"
+  authors:
+    - given-names: Jeremy
+      family-names: Staum
+    - given-names: Mingbin
+      family-names: Feng
+    - given-names: Ming
+      family-names: Liu
+  journal: "IIE Transactions"
+  volume: 48
+  issue: 6
+  start: 501
+  end: 510
+  year: 2016
+  doi: "10.1080/0740817X.2015.1110650"

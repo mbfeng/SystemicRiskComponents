@@ -1,0 +1,8 @@
+# MATLAB, editor and OS files
+*.asv
+*.m~
+slprj/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini

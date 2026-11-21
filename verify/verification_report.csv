@@ -1,0 +1,167 @@
+Item,Printed,PrintedValue,Reproduced,HalfUnit,Status
+"Table 2, scenario 1, probability (%)",88,88,88,0.5,ok
+"Table 2, scenario 1, a1 - 1 (%)",5,5,5,0.5,ok
+"Table 2, scenario 1, a2 - 1 (%)",5,5,5,0.5,ok
+"Table 2, scenario 1, a3 - 1 (%)",5,5,5,0.5,ok
+"Table 2, scenario 1, 1 - f*_1 (%)",0,0,0,0.5,ok
+"Table 2, scenario 1, 1 - f*_2 (%)",0,0,0,0.5,ok
+"Table 2, scenario 2, probability (%)",4,4,4,0.5,ok
+"Table 2, scenario 2, a1 - 1 (%)",-59.17,-59.17,-59.1666666666667,0.005,ok
+"Table 2, scenario 2, a2 - 1 (%)",10,10,10,0.5,ok
+"Table 2, scenario 2, a3 - 1 (%)",-10,-10,-10,0.5,ok
+"Table 2, scenario 2, 1 - f*_1 (%)",41.875,41.875,41.875,0.0005,ok
+"Table 2, scenario 2, 1 - f*_2 (%)",0,0,0,0.5,ok
+"Table 2, scenario 3, probability (%)",4,4,4,0.5,ok
+"Table 2, scenario 3, a1 - 1 (%)",10,10,10,0.5,ok
+"Table 2, scenario 3, a2 - 1 (%)",-2.5,-2.5,-2.5,0.05,ok
+"Table 2, scenario 3, a3 - 1 (%)",-62.5,-62.5,-62.5,0.05,ok
+"Table 2, scenario 3, 1 - f*_1 (%)",0,0,0,0.5,ok
+"Table 2, scenario 3, 1 - f*_2 (%)",15,15,15,0.5,ok
+"Table 2, scenario 4, probability (%)",4,4,4,0.5,ok
+"Table 2, scenario 4, a1 - 1 (%)",-2.5,-2.5,-2.5,0.05,ok
+"Table 2, scenario 4, a2 - 1 (%)",-59.17,-59.17,-59.1666666666667,0.005,ok
+"Table 2, scenario 4, a3 - 1 (%)",27.5,27.5,27.5,0.05,ok
+"Table 2, scenario 4, 1 - f*_1 (%)",8.125,8.125,8.125,0.0005,ok
+"Table 2, scenario 4, 1 - f*_2 (%)",35,35,35,0.5,ok
+"Table 3, External creditors' loss (Both), node 1",8000,8000,8000,0.5,ok
+"Table 3, External creditors' loss (Both), node 2",6000,6000,6000,0.5,ok
+"Table 3, External assets (Shapley), node 1",6750,6750,6750,0.5,ok
+"Table 3, External assets (Shapley), node 2",7250,7250,7250,0.5,ok
+"Table 3, External assets (Aumann-Shapley), node 1",6917,6917,6916.66666666667,0.5,ok
+"Table 3, External assets (Aumann-Shapley), node 2",7083,7083,7083.33333333333,0.5,ok
+"Table 3, Transmission (Shapley), node 1",7350,7350,7350,0.5,ok
+"Table 3, Transmission (Shapley), node 2",6650,6650,6650,0.5,ok
+"Table 3, Leverage (Aumann-Shapley), node 1",7740,7740,7740,0.5,ok
+"Table 3, Leverage (Aumann-Shapley), node 2",6260,6260,6260,0.5,ok
+"Table 3, Intermediation (Shapley), node 1",6350,6350,6350,0.5,ok
+"Table 3, Intermediation (Shapley), node 2",7650,7650,7650,0.5,ok
+"Table 3, Intermediation (Aumann-Shapley), node 1",6300,6300,6300,0.5,ok
+"Table 3, Intermediation (Aumann-Shapley), node 2",7700,7700,7700,0.5,ok
+"Table 3, Solvency (Aumann-Shapley), node 1",6600,6600,6600,0.5,ok
+"Table 3, Solvency (Aumann-Shapley), node 2",7400,7400,7400,0.5,ok
+"Table 3, Absorption (Aumann-Shapley), node 1",6000,6000,6000,0.5,ok
+"Table 3, Absorption (Aumann-Shapley), node 2",8000,8000,8000,0.5,ok
+"Table 3, Funding (Aumann-Shapley), node 1",6150,6150,6150,0.5,ok
+"Table 3, Funding (Aumann-Shapley), node 2",7850,7850,7850,0.5,ok
+"Table 4, node 1, size",600,600,600,0.5,ok
+"Table 4, node 1, equity",50,50,50,0.5,ok
+"Table 4, node 1, external debt",150,150,150,0.5,ok
+"Table 4, node 1, cash",50,50,50,0.5,ok
+"Table 4, node 1, risky assets",500,500,500,0.5,ok
+"Table 4, node 1, portfolio return (%)",-40,-40,-40,0.5,ok
+"Table 4, node 1, payment fraction f*",0.723,0.723,0.722855369335816,0.0005,ok
+"Table 4, node 1, sensitivity zeta",0.635,0.635,0.63491902262852,0.0005,ok
+"Table 4, node 2, size",1000,1000,1000,0.5,ok
+"Table 4, node 2, equity",50,50,50,0.5,ok
+"Table 4, node 2, external debt",750,750,750,0.5,ok
+"Table 4, node 2, cash",50,50,50,0.5,ok
+"Table 4, node 2, risky assets",750,750,750,0.5,ok
+"Table 4, node 2, portfolio return (%)",10,10,10,0.5,ok
+"Table 4, node 2, payment fraction f*",1,1,1,0.5,ok
+"Table 4, node 2, sensitivity zeta",0,0,0,0.5,ok
+"Table 4, node 3, size",1000,1000,1000,0.5,ok
+"Table 4, node 3, equity",25,25,25,0.5,ok
+"Table 4, node 3, external debt",875,875,875,0.5,ok
+"Table 4, node 3, cash",50,50,50,0.5,ok
+"Table 4, node 3, risky assets",350,350,350,0.5,ok
+"Table 4, node 3, portfolio return (%)",-20,-20,-20,0.5,ok
+"Table 4, node 3, payment fraction f*",0.951,0.951,0.951409062693979,0.0005,ok
+"Table 4, node 3, sensitivity zeta",0.981,0.981,0.98112973308504,0.0005,ok
+"Table 4, node 4, size",1000,1000,1000,0.5,ok
+"Table 4, node 4, equity",50,50,50,0.5,ok
+"Table 4, node 4, external debt",750,750,750,0.5,ok
+"Table 4, node 4, cash",800,800,800,0.5,ok
+"Table 4, node 4, risky assets",0,0,0,0.5,ok
+"Table 4, node 4, portfolio return (%)",0,0,0,0.5,ok
+"Table 4, node 4, payment fraction f*",0.994,0.994,0.994285340912803,0.0005,ok
+"Table 4, node 4, sensitivity zeta",0.996,0.996,0.99602731222843,0.0005,ok
+"Table 4, node 5, size",600,600,600,0.5,ok
+"Table 4, node 5, equity",50,50,50,0.5,ok
+"Table 4, node 5, external debt",150,150,150,0.5,ok
+"Table 4, node 5, cash",50,50,50,0.5,ok
+"Table 4, node 5, risky assets",500,500,500,0.5,ok
+"Table 4, node 5, portfolio return (%)",-40,-40,-40,0.5,ok
+"Table 4, node 5, payment fraction f*",0.723,0.723,0.722855369335816,0.0005,ok
+"Table 4, node 5, sensitivity zeta",0.997,0.997,0.997110772529767,0.0005,ok
+"Table 4, node 6, size",1000,1000,1000,0.5,ok
+"Table 4, node 6, equity",50,50,50,0.5,ok
+"Table 4, node 6, external debt",750,750,750,0.5,ok
+"Table 4, node 6, cash",50,50,50,0.5,ok
+"Table 4, node 6, risky assets",550,550,550,0.5,ok
+"Table 4, node 6, portfolio return (%)",10,10,10,0.5,ok
+"Table 4, node 6, payment fraction f*",0.994,0.994,0.993833839720344,0.0005,ok
+"Table 4, node 6, sensitivity zeta",0.996,0.996,0.99602731222843,0.0005,ok
+"Table 5, External creditors' loss (Both), node 1",41572,41572,41571.6945996276,0.5,ok
+"Table 5, External creditors' loss (Both), node 2",0,0,0,0.5,ok
+"Table 5, External creditors' loss (Both), node 3",42517,42517,42517.0701427685,0.5,ok
+"Table 5, External creditors' loss (Both), node 4",4286,4286,4285.99431539745,0.5,ok
+"Table 5, External creditors' loss (Both), node 5",41572,41572,41571.6945996276,0.5,ok
+"Table 5, External creditors' loss (Both), node 6",4625,4625,4624.62020974225,0.5,ok
+"Table 5, External assets (Shapley), node 1",54575,54575,54575.0736309042,0.5,ok
+"Table 5, External assets (Shapley), node 2",-2410,-2410,-2409.7278367866,0.5,ok
+"Table 5, External assets (Shapley), node 3",44273,44273,44272.6037204293,0.5,ok
+"Table 5, External assets (Shapley), node 4",0,0,0,0.5,ok
+"Table 5, External assets (Shapley), node 5",56945,56945,56945.0017231455,0.5,ok
+"Table 5, External assets (Shapley), node 6",-18812,-18812,-18811.8773705291,0.5,ok
+"Table 5, External assets (Aumann-Shapley), node 1",45404,45404,45404.4824717811,0.5,ok
+"Table 5, External assets (Aumann-Shapley), node 2",0,0,-0,0.5,ok
+"Table 5, External assets (Aumann-Shapley), node 3",41899,41899,41899.1859304884,0.5,ok
+"Table 5, External assets (Aumann-Shapley), node 4",0,0,-0,0.5,ok
+"Table 5, External assets (Aumann-Shapley), node 5",50669,50669,50667.045333428,0.5,corrected (see README)
+"Table 5, External assets (Aumann-Shapley), node 6",-3400,-3400,-3399.63986928448,0.5,ok
+"Table 5, Transmission (Shapley), node 1",42941,42941,42940.7905898567,0.5,ok
+"Table 5, Transmission (Shapley), node 2",0,0,0,0.5,ok
+"Table 5, Transmission (Shapley), node 3",42227,42227,42226.6164362196,0.5,ok
+"Table 5, Transmission (Shapley), node 4",2383,2383,2383.41170176631,0.5,ok
+"Table 5, Transmission (Shapley), node 5",45307,45307,45307.220043139,0.5,ok
+"Table 5, Transmission (Shapley), node 6",1713,1713,1713.03509618177,0.5,ok
+"Table 5, Leverage (Aumann-Shapley), node 1",41739,41739,41738.6558277408,0.5,ok
+"Table 5, Leverage (Aumann-Shapley), node 2",0,0,0,0.5,ok
+"Table 5, Leverage (Aumann-Shapley), node 3",41878,41878,41877.5974024105,0.5,ok
+"Table 5, Leverage (Aumann-Shapley), node 4",4358,4358,4358.21293339158,0.5,ok
+"Table 5, Leverage (Aumann-Shapley), node 5",42656,42656,42656.1743400337,0.5,ok
+"Table 5, Leverage (Aumann-Shapley), node 6",3940,3940,3940.43336358669,0.5,ok
+"Table 5, Intermediation (Shapley), node 1",96674,96674,96673.7127270375,0.5,ok
+"Table 5, Intermediation (Shapley), node 2",-27561,-27561,-27561.3010582904,0.5,ok
+"Table 5, Intermediation (Shapley), node 3",44571,44571,44570.5049359372,0.5,ok
+"Table 5, Intermediation (Shapley), node 4",-25005,-25005,-25005.3489122056,0.5,ok
+"Table 5, Intermediation (Shapley), node 5",99221,99221,99220.8545862868,0.5,ok
+"Table 5, Intermediation (Shapley), node 6",-53327,-53327,-53327.3484116021,0.5,ok
+"Table 5, Intermediation (Aumann-Shapley), node 1",122619,122619,122618.926697139,0.5,ok
+"Table 5, Intermediation (Aumann-Shapley), node 2",-27714,-27714,-27714.4630664184,0.5,ok
+"Table 5, Intermediation (Aumann-Shapley), node 3",44575,44575,44575.4189944134,0.5,ok
+"Table 5, Intermediation (Aumann-Shapley), node 4",-49901,-49901,-49900.6828057107,0.5,ok
+"Table 5, Intermediation (Aumann-Shapley), node 5",149783,149783,149783.307939733,0.5,ok
+"Table 5, Intermediation (Aumann-Shapley), node 6",-104791,-104791,-104791.433891993,0.5,ok
+"Table 5, Solvency (Aumann-Shapley), node 1",95238,95238,95237.853394278,0.5,ok
+"Table 5, Solvency (Aumann-Shapley), node 2",0,0,-0,0.5,ok
+"Table 5, Solvency (Aumann-Shapley), node 3",44151,44151,44150.8379888268,0.5,ok
+"Table 5, Solvency (Aumann-Shapley), node 4",-49801,-49801,-49801.3656114215,0.5,ok
+"Table 5, Solvency (Aumann-Shapley), node 5",149567,149567,149566.615879465,0.5,ok
+"Table 5, Solvency (Aumann-Shapley), node 6",-104583,-104583,-104582.867783985,0.5,ok
+"Table 5, Absorption (Aumann-Shapley), node 1",150000,150000,150000,0.5,ok
+"Table 5, Absorption (Aumann-Shapley), node 2",-55429,-55429,-55428.9261328367,0.5,ok
+"Table 5, Absorption (Aumann-Shapley), node 3",45000,45000,45000,0.5,ok
+"Table 5, Absorption (Aumann-Shapley), node 4",-50000,-50000,-50000,0.5,ok
+"Table 5, Absorption (Aumann-Shapley), node 5",150000,150000,150000,0.5,ok
+"Table 5, Absorption (Aumann-Shapley), node 6",-105000,-105000,-105000,0.5,ok
+"Table 5, Funding (Aumann-Shapley), node 1",109574,109574,109573.753143375,0.5,ok
+"Table 5, Funding (Aumann-Shapley), node 2",-35193,-35193,-35192.8796056091,0.5,ok
+"Table 5, Funding (Aumann-Shapley), node 3",44918,44918,44917.7473615018,0.5,ok
+"Table 5, Funding (Aumann-Shapley), node 4",-49844,-49844,-49844.3937352264,0.5,ok
+"Table 5, Funding (Aumann-Shapley), node 5",149726,149726,149725.552645774,0.5,ok
+"Table 5, Funding (Aumann-Shapley), node 6",-84609,-84609,-84608.705942652,0.5,ok
+"Text, Example 1, external assets: stand-alone risk of node 1",6700,6700,6700,0.5,ok
+"Text, Example 1, external assets: stand-alone risk of node 2",7200,7200,7200,0.5,ok
+"Text, Example 1, external assets: risk of the system",14000,14000,14000,0.5,ok
+"Text, Example 1, external assets: interaction",100,100,100.000000000002,0.5,ok
+"Text, Example 1, transmission and leverage: stand-alone risk of node 1",6700,6700,6700,0.5,ok
+"Text, Example 1, transmission and leverage: stand-alone risk of node 2",6000,6000,6000,0.5,ok
+"Text, Example 1, transmission and leverage: risk of the system",14000,14000,14000,0.5,ok
+"Text, Example 1, transmission and leverage: interaction",1300,1300,1300,0.5,ok
+"Text, Example 1, intermediation: stand-alone risk of node 1",6700,6700,6700,0.5,ok
+"Text, Example 1, intermediation: stand-alone risk of node 2",8000,8000,8000,0.5,ok
+"Text, Example 1, intermediation: risk of the system",14000,14000,14000,0.5,ok
+"Text, Example 1, intermediation: interaction",-700,-700,-699.999999999999,0.5,ok
+"Text, Example 1, interaction attributed to node 2 by solvency",600,600,600,0.5,ok
+"Text, Example 2, cost of the system",134571,134571,134571.073867163,0.5,ok
