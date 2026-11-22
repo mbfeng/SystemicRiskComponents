@@ -1,5 +1,7 @@
 # Systemic Risk Components in a Network Model of Contagion — code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24431416.svg)](https://doi.org/10.5281/zenodo.24431416)
+
 Code that reproduces the numerical examples (Section 4.1: Tables 2–5 and the numbers quoted in
 Sections 4.1–4.5) of
 
